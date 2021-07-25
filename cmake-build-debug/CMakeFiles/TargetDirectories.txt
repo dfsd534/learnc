@@ -1,0 +1,3 @@
+/Users/liulong/person/code/c/learnc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/liulong/person/code/c/learnc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/liulong/person/code/c/learnc/cmake-build-debug/CMakeFiles/learnc.dir
